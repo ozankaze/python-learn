@@ -133,3 +133,9 @@
 
 # print(rilisTahun)
 
+# list tuple -> ini sifatnya immutable, gak bisa di ganti, edit, delete, tambah
+
+# memberRedvelvet = ("Irene", "Joy", "Yeri", "Wendy", "Seul-gi") -> tuple
+# memberBlackpink = ["Jisoo", "Lisa", "Jeny", "Rose"] -> merubah menjadi tuple
+
+# print(tuple(memberBlackpink)) -> merubah menjadi tuple
