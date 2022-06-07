@@ -140,7 +140,7 @@
 
 # print(tuple(memberBlackpink)) -> merubah menjadi tuple
 
-# list(), tuples[], 
+# list[], tuple(), 
 # dictionary{} 
 # key:value
 
