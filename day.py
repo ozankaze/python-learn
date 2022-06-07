@@ -139,3 +139,20 @@
 # memberBlackpink = ["Jisoo", "Lisa", "Jeny", "Rose"] -> merubah menjadi tuple
 
 # print(tuple(memberBlackpink)) -> merubah menjadi tuple
+
+# list(), tuples[], 
+# dictionary{} 
+# key:value
+
+# memberRedvalvet = {
+#     'nama'  : 'Irene',
+#     'age'   : '17',
+#     'hobi'  : 'Nyanyi'
+# }
+
+# memberRedvalvet['genre'] = 'Slow' -> menambah
+# memberRedvalvet['nama'] = 'Yeri' -> mengedit
+# del memberRedvalvet['age'] -> mengedit
+
+# for key, value in memberRedvalvet.items():
+#     print(key + " - " + value)
