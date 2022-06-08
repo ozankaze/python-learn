@@ -156,3 +156,21 @@
 
 # for key, value in memberRedvalvet.items():
 #     print(key + " - " + value)
+
+# nested dictionary{} 
+
+# girlKorea = { 
+#             1 : {'nama' : 'Irene', 'age' : '17', 'hobi' : 'BlackPink'},
+#             2 : {'nama' : 'Jiso', 'age' : '27', 'band' : 'RedValvet'},
+#             3 : {'nama' : 'Rose', 'age' : '17', 'hobi' : 'BlackPink'},
+#             4 : {'nama' : 'Yeri', 'age' : '27', 'band' : 'RedValvet'},
+#             }
+
+# menampilkan scara spesifik
+# print(girlKorea[2]['nama'])
+
+# for key, value in girlKorea.items():
+#     print("\nKey", key)
+    
+#     for key2 in value:
+#         print(key2 + "-" + value[key2])
