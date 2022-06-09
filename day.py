@@ -178,9 +178,9 @@
 # functions() -> adalah beberapa baris code / satu code kita buat jadi 1 functions dan bisa di pakai berulang
 # makanya kita buat jadi satu, kalau butuh kita bisa panggil functions nya.
   
-def namafunction():
-    print("------")
-    print("Member Black Pink Jisoo")
-    print("------")
+# def namafunction():
+#     print("------")
+#     print("Member Black Pink Jisoo")
+#     print("------")
 
-namafunction()
+# namafunction()
