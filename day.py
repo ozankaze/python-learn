@@ -195,3 +195,11 @@
 # memberBlackPink("Lisa")
 # memberBlackPink("Jennie")
 # memberBlackPink()
+
+# argement parameter lebih dari satu -> jadi untuk menambahkan parameter anda bisa memisahkan menggunakan , contoh(a, b)
+
+# def belajarHitung(A, B):
+#     print("Hasil dari A dan B =", A + B)
+
+# belajarHitung(30, 90)
+# belajarHitung(30, 989237210)
