@@ -184,3 +184,14 @@
 #     print("------")
 
 # namafunction()
+
+# argument / parameter -> adalah variable yang kita oper ke dalam functions, untuk kita pakai di dalam fungsinya
+
+# def memberBlackPink(namaMember = "member tidak di ketahui"):
+#     print("Hei nama saya", namaMember)
+
+# memberBlackPink("Jisoo")
+# memberBlackPink("Rose")
+# memberBlackPink("Lisa")
+# memberBlackPink("Jennie")
+# memberBlackPink()
