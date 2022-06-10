@@ -211,3 +211,10 @@
 #     return c
 
 # print(belajarHitung(20, 30))
+
+# keyword argument -> untuk menentukan posisi urutan memanggil. Terbalik atau berbeda dari sebelumnya.
+
+# def namaGirlBand(nama, negara):
+#     print("nama =", nama + " - negara = ", negara)
+
+# namaGirlBand(negara = 'Korea', nama = 'Jisoo')
