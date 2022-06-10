@@ -203,3 +203,11 @@
 
 # belajarHitung(30, 90)
 # belajarHitung(30, 989237210)
+
+# Return -> return adalah mengembalikan suatu nilai. Dia tidak bertugas untuk print. Kita g tau mau di apain di dalamnya, mau di olah dll.
+
+# def belajarHitung(a, b):
+#     c = a + b
+#     return c
+
+# print(belajarHitung(20, 30))
