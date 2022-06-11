@@ -218,3 +218,10 @@
 #     print("nama =", nama + " - negara = ", negara)
 
 # namaGirlBand(negara = 'Korea', nama = 'Jisoo')
+
+# *args -> untuk mengetahui berapa banyak nilai
+
+# def namaIdol(*kpops):
+#     print(kpops)
+
+# namaIdol('Jisoo', 'Rose', 'Lisa')
