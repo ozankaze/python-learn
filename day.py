@@ -225,3 +225,11 @@
 #     print(kpops)
 
 # namaIdol('Jisoo', 'Rose', 'Lisa')
+
+# *kwargs -> mirip-miriplah sama args (key, value)
+
+# def namaIdol(**kpops):
+#     for key, value in kpops.items():
+#         print(key + " - " + value)
+
+# namaIdol(nama = 'Jisoo', age = '17', hobby = 'manggung')
