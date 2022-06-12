@@ -233,3 +233,15 @@
 #         print(key + " - " + value)
 
 # namaIdol(nama = 'Jisoo', age = '17', hobby = 'manggung')
+
+# module pada python -> adalah untuk membagi beberpa kode untuk beberapa file, fungsinya biar kodenya rapi.
+
+# memberRedvalvet = {
+#     'nama' : 'Irene',
+#     'Age' : '24',
+#     'Hobi' : 'Nyanyi',
+#     'Lokasi' : 'Yogyakarta'
+# }
+
+# def namaOrang(nama):
+#     print('Nama kamu adalah', nama)
