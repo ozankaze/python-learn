@@ -13,3 +13,15 @@
 
 # namaOrang('Luffy')
 # print(memberRedvalvet)
+
+# build in module datetime
+
+# import datetime as dt
+# import calendar as cl
+
+# now = dt.datetime.now()
+# print(now.strftime("%Y, %B"))
+
+# yy = 2022
+# mm = 6
+# print(cl.month(yy, mm))
