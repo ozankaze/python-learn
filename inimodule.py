@@ -25,3 +25,19 @@
 # yy = 2022
 # mm = 6
 # print(cl.month(yy, mm))
+
+# === Global dan local variable
+
+# ini adalah global variable
+# nama = "Irene"
+
+# def namaOrang():
+#     # kalau akses global variable pake cara ini
+#     global nama
+
+#     # ini adalah local variable
+#     nama = "Yeri"
+#     print("Akses dari dalam", nama)
+
+# namaOrang()
+# print("Akses dari luar", nama)
