@@ -44,10 +44,10 @@
 
 # === Exception -> untuk menghentikan proggram (debugging)
 
-nama = "Zan"
+# nama = "Zan"
 
 # untuk menghentikan proggram kita pakai ini
-raise Exception("Stop")
+# raise Exception("Stop")
 
-print(i + nama)
-print("Finis")
+# print(i + nama)
+# print("Finis")
