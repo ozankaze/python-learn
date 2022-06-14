@@ -51,3 +51,42 @@
 
 # print(i + nama)
 # print("Finis")
+
+# === Bermain Ala-Ala PUBG
+
+# nama = input("Pilih senjata apa nie? ")
+# senjata = {
+#         "nama" : nama,
+#         "power" : 400 
+#     }
+
+# def startGame():
+#     pilihan = input("Mau apa? 1. Main game 2. Lihat status senjata 3. Nambah demage 4. Keluar.  ")
+    
+#     if pilihan == "1":
+#         goPlay()
+#     elif pilihan == "2":
+#         goSenjata()
+#     elif pilihan == "3":
+#         goDemage()
+#     else:
+#         goExit()
+
+# def goPlay():
+#     print("We ayo main")
+#     startGame()
+
+# def goSenjata():
+#     print("Weh senjatanya")
+#     print(senjata)
+#     startGame()
+
+# def goDemage():
+#     senjata['power'] += 600
+#     print("Demage di tambah", senjata['power'])
+#     startGame()
+
+# def goExit():
+#     print("Exit")
+
+# startGame()
