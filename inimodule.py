@@ -41,3 +41,13 @@
 
 # namaOrang()
 # print("Akses dari luar", nama)
+
+# === Exception -> untuk menghentikan proggram (debugging)
+
+nama = "Zan"
+
+# untuk menghentikan proggram kita pakai ini
+raise Exception("Stop")
+
+print(i + nama)
+print("Finis")
