@@ -1,6 +1,6 @@
 # #### Program Python Pertama Saya
 # print('Hello Zan')
-print("*" * 5)
+# print("*" * 5)
 
 # VARIABLE adalah tempat menyimpan data
 
