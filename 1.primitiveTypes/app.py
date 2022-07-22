@@ -53,3 +53,18 @@
 # print(course.replace("h", "O"))
 # print("joo" in course)
 # print("Where" not in course)
+
+# #### Numbers
+
+# print(10 + 3)
+# print(10 - 3)
+# print(10 * 3)
+# print(10 / 3)
+# print(10 // 3)
+# print(10 % 3)
+# print(10 ** 3)
+
+# x = 10
+# x = x + 3
+# x += 3
+# print(x)
