@@ -19,3 +19,16 @@
 # # Pyt
 # print(course[:])
 # # Python Programming
+
+# #### Escape Sequences
+# \n -> Adalah garis baru
+# link: https://belajarpython.com/tutorial/string-python
+
+# \" -> Python "Programming
+# \' -> Python 'Programming
+# \\ -> Python \Programming
+# \n -> Python
+#       Programming
+
+# course = "Python \nProgramming"
+# print(course)
