@@ -68,3 +68,19 @@
 # x = x + 3
 # x += 3
 # print(x)
+
+# #### Type Conversion
+# int()
+# float()
+# bool()
+# str()
+
+# x = input("x: = ")
+# print(type(x))
+# <class 'str'>
+
+# y = int(x) + 5
+# print(f"x: {x}, y: {y}")
+# x: 5, y: 10
+
+# print(y)
