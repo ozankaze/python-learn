@@ -32,3 +32,11 @@
 
 # course = "Python \nProgramming"
 # print(course)
+
+# ####  Formatted Strings
+#
+
+# first = "Bae"
+# last = "Joo-hyun"
+# full = f"{len(first)} {4 + 7}"
+# print(full)
