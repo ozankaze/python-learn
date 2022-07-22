@@ -40,3 +40,16 @@
 # last = "Joo-hyun"
 # full = f"{len(first)} {4 + 7}"
 # print(full)
+
+# #### String Methods
+# link: https://belajarpython.com/tutorial/string-python
+
+# course = "  bae joo-hyun"
+# print(course.upper())
+# print(course.lower())
+# print(course.title())
+# print(course.strip())
+# print(course.find("joo"))
+# print(course.replace("h", "O"))
+# print("joo" in course)
+# print("Where" not in course)
