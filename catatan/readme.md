@@ -12,5 +12,9 @@ Ini adalah catatan buat pindah laptop baru :v
 | Material Icon Theme | <https://draculatheme.com/> |
 | PEP 8 | -m pip install -U autopep8 |
 
+#### Catatan
+
+- Dokumentasi [Python](https://belajarpython.com/tutorial/tipe-data-python)
+
 > Jangan mengkritik, memcerca atau mengeluh
 > Tidak ada jalan pintas untuk belajar suatu bahasa 
