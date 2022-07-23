@@ -1,3 +1,6 @@
+# #### Comparison Operators
+# link: https://belajarpython.com/tutorial/operator-python
+
 # ####  Conditional Statements
 #
 
