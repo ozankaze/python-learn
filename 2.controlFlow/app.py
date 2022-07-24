@@ -43,3 +43,11 @@
 #     print("Bae Joo-hyun")
 # else:
 #     print("Eleh")
+
+# #### Chaining Comparison Operators
+
+# age = 17
+# if 18 <= age < 65:
+#     print("Benar")
+# else:
+#     print("Salah")
